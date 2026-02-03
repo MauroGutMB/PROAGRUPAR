@@ -33,6 +33,7 @@ O estudo realiza uma análise comparativa de desempenho entre seis algoritmos de
 
 A organização dos arquivos visa facilitar a reprodutibilidade dos experimentos e a colaboração entre os pesquisadores.
 
+```
 PROAGRUPAR/
 │
 ├── data/                  # Conjuntos de dados brutos gerados pelo simulador SNetS
@@ -44,6 +45,7 @@ PROAGRUPAR/
 │
 ├── .gitignore             # Arquivo de exclusão de rastreamento do Git
 └── README.md              # Documentação técnica do projeto
+```
 
 ## Instruções de Uso
 
